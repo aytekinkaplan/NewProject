@@ -6,4 +6,26 @@
     box-sizing: border-box;
     font-family: "Poppins","sans-serif";
 }
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #43affc;
+}
+
+.wrapper{
+    width: 350px;
+    border-radius: 7px;
+    background-color: #fff;
+}
+.wrapper header {
+    color: #43affc;
+    font-size: 21px;
+    font-weight: 500px;
+    padding: 16px 15px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #bfbfbf;
+}
 
