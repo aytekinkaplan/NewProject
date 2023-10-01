@@ -67,6 +67,10 @@ header i{
    
 }
 
+.input-part input:is(:focus, :valid){
+    text-align: center;
+    border:  1px solid #bfbfbf;    
+}
 .input-part input{
     text-align: center;
     border:  1px solid #bfbfbf;    
