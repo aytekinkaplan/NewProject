@@ -112,3 +112,8 @@ header i{
 .weather-part img{
    max-width: 125px; 
 }
+
+.weather-part .temp{
+    display: flex;
+    font-size: 72px;
+}
