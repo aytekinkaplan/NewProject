@@ -105,5 +105,5 @@ header i{
     margin: 30px 0 0;
     display: flex;
     align-items: center;
-    justify-items: center;
+    justify-content: center;
 }
