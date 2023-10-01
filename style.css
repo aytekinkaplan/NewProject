@@ -116,4 +116,6 @@ header i{
 .weather-part .temp{
     display: flex;
     font-size: 72px;
+    font-weight: 500;
 }
+
