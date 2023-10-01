@@ -55,8 +55,19 @@ header i{
 .input-part .seperator{
     height: 1px;
     width: 100%;
-    margin: 25px o;
+    margin: 25px 0;
     background-color: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.seperator::before{
+    content: "veya";
+    background-color: #bfbfbf;
+    color: #ccc;
+    padding: 0 15px;
+    font-size: 19px;
 }
 
 .input-part button{
