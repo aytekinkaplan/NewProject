@@ -44,6 +44,7 @@ header i{
     text-align: center;
     padding: 12px 10px;
     border-radius: 7px;
+    margin-bottom: 10px;
 }
 
 .info-txt.error{
