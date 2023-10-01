@@ -120,5 +120,5 @@ header i{
 }
 
 .weather-part .temp .numb{
-    
+   font-weight: 600; 
 }
