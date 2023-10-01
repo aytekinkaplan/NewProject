@@ -48,7 +48,9 @@ header i{
 }
 
 .info-txt.error{
-    
+ color: #721c24;
+ background: #f8f7da;
+ border: ;   
 }
 
 .input-part :where(input, button){
